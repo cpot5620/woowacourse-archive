@@ -41,7 +41,7 @@
 
 | <center> 프로젝트 </center>      | <center> 소개 </center>                                | <center> Repository </center>                                                              | <center> 문서 </center>                                                                                |
 |------------------------------|------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| <center> 괜찮을지도 </center>     | <center> 개인의 관심사를 다양한 지도로 만들고 공유할 수 있는 서비스 </center> | <center> [2023-map-befine](https://github.com/woowacourse-teams/2023-map-befine) </center> | <center> [Wiki](https://github.com/woowacourse-teams/2023-map-befine/wiki) <br> [기술 블로그](https://map-befine-official.github.io/) </center> | 
+| <center> 괜찮을지도 </center>     | <center> [개인의 관심사를 다양한 지도로 만들고 공유할 수 있는 서비스](https://mapbefine.com/) </center> | <center> [2023-map-befine](https://github.com/woowacourse-teams/2023-map-befine) </center> | <center> [Wiki](https://github.com/woowacourse-teams/2023-map-befine/wiki) <br> [기술 블로그](https://map-befine-official.github.io/) </center> | 
 
 ## 레벨 4
 
